@@ -54,7 +54,7 @@ LiquidHash/
 ### 1. Clone the repository
 
 ```powershell
-git clone <https://github.com/MarcoDiLiberto22/LiquidHash>
+git clone https://github.com/MarcoDiLiberto22/LiquidHash
 cd LiquidHash
 ```
 
